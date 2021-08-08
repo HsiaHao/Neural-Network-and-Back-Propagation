@@ -1,6 +1,6 @@
 # Neural-Network-and-Back-Propagation
 
-##Test the model with MNIST dataset
+## Test the model with MNIST dataset
 #### Result:
 
 <img width="761" alt="截圖 2021-08-08 下午3 51 28" src="https://user-images.githubusercontent.com/45225895/128625111-cee2fb5e-96d4-4a6b-b78d-543c8ff6f132.png">
